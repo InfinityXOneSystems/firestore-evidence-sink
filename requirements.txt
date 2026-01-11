@@ -1,1 +1,1 @@
-firebase-admin
+firebase-admin==7.1.0
